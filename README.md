@@ -36,7 +36,7 @@ Aqui você encontra projetos como:
 ## 📬 Contato
 
 - 📧 Email:   
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/daniel-silva-970093299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-silva-970093299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🖥️ Veja meu portfólio (opcional): Em desenvolvimento...
 
 ---
